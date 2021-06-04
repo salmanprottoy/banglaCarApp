@@ -6,7 +6,7 @@ A React-native application build using react-native library that can be use as b
 
 ## Preview
 
-![Preview](https://i.ibb.co/P5B8H39/20210604-120650.jpg)
+![Preview](https://i.ibb.co/DDsJ6tz/20210604-120741.jpg)
 
 ---
 
