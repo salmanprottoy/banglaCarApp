@@ -10,7 +10,6 @@ A React-native application build using react-native library that can be use as b
 
 ---
 
-
 ## Features ✔
 
 - #### Can see full site
