@@ -1,6 +1,6 @@
 # Bangla Car
 
-A React-native application build using react-native library that can be use as bangla cars website.
+A React-native application built using the react-native library that can be used as bangla cars website.
 
 ---
 
